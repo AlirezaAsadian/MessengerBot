@@ -17,4 +17,4 @@ Telegram Admin ID : **********
 
 ***************************
 
-https://api.telegram.org/bot **********Telegram Bot Token********** /setwebhook?url=https:// **********index.php File Path**********
+https://api.telegram.org/bot [**********Telegram Bot Token**********] /setwebhook?url=https:// [**********index.php File Path**********]
